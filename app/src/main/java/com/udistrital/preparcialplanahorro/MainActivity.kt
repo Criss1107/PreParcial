@@ -1,4 +1,4 @@
-package com.udistrital.preparcialplanahorro
+ package com.udistrital.preparcialplanahorro
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
